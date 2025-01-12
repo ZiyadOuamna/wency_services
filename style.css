@@ -75,7 +75,7 @@ body {
 .divider h2{
     display: flex;
     justify-content: center;
-    padding-top: 20px;
+    padding-top: 30px;
 }
 .decoration-left, .decoration-right {
     position: absolute;
@@ -269,7 +269,7 @@ color: #2980b9;
 .footer {
     background-color: #031319;
     color: #F6C10E;
-    padding: 15px;
+    padding: 20px;
     text-align: center;
 }
 
